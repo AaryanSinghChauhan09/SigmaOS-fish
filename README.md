@@ -1,4 +1,6 @@
-Omarchy shell configuration for Fish shell.
+# fk-omarchy-fish
+
+> Forked from omacom/omarchy-fish (MIT). See `SIGMAOS_FORK.md`.
 
 ## Install
 ```bash
