@@ -1,14 +1,14 @@
-# fk-omarchy-fish
+# SigmaOS fish
 
 > Forked from AaryanSinghChauhan09/SigmaOS-fish (MIT). See `SIGMAOS_FORK.md`.
 
 ## Install
 ```bash
 # Install the package
-sudo pacman -S omarchy-fish
+sudo pacman -S sigmaos-fish
 
 # Setup bash to auto-launch fish
-omarchy-setup-fish
+sigmaos-setup-fish
 ```
 
 ## fzf.fish Keybindings
@@ -21,7 +21,7 @@ omarchy-setup-fish
 
 ## Customization
 
-To add your own functions or override omarchy-fish functions:
+To add your own functions or override sigmaos-fish functions:
 
 ```bash
 # Create your own functions
@@ -37,7 +37,7 @@ User functions in `~/.config/fish/functions/` take precedence over vendor functi
 ## Uninstall
 
 ```bash
-sudo pacman -R omarchy-fish
+sudo pacman -R sigmaos-fish
 ```
 
 To restore bash, copy a backup to `~/.bashrc` (backups are saved as `.bashrc.backup-*`).
