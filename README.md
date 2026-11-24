@@ -1,6 +1,6 @@
 # fk-omarchy-fish
 
-> Forked from omacom/omarchy-fish (MIT). See `SIGMAOS_FORK.md`.
+> Forked from AaryanSinghChauhan09/SigmaOS-fish (MIT). See `SIGMAOS_FORK.md`.
 
 ## Install
 ```bash
